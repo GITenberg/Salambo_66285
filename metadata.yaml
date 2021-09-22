@@ -1,0 +1,24 @@
+_repo: Salambo_66285
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bayo, Ciro
+    gutenberg_agent_id: '53730'
+    url: http://www.gutenberg.org/2009/agents/53730
+creator:
+  author:
+    agent_name: Flaubert, Gustavo
+    gutenberg_agent_id: '53729'
+    url: http://www.gutenberg.org/2009/agents/53729
+description: ''
+gutenberg_issued: '2021-09-13'
+identifiers:
+  gutenberg: '66285'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Salambó
+url: http://www.gutenberg.org/ebooks/66285
